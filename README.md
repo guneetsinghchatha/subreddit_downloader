@@ -5,3 +5,4 @@ Using the reddit API is extremely challenging after the update as there is no wa
 
 This script makes use of the pushshift API ( https://github.com/pushshift/api ) to download the entire dump 
 
+Simply add the subreddit name in the line of code 
