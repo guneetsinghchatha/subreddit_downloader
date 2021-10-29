@@ -11,7 +11,7 @@ Simply replace the subreddit name in the fourth line of code and run the script
 It will download two files one for all the posts and one for all the comments 
 
 
-# Please note pushshift has rate limitations -
+***Please note pushshift has rate limitations -
 
 repeated 429 error codes will result in blocklisting of IP
 
