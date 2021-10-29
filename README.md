@@ -1,5 +1,6 @@
 # subredditdownloader
-Download all posts and comments in a subreddit
+
+This subreddit downloader downloads all posts and comments in a subreddit
 
 Using the reddit API is extremely challenging after the update as there is no way to download the entire subreddit contents
 
@@ -10,3 +11,7 @@ This script makes use of the pushshift API ( https://github.com/pushshift/api ) 
 Simply replace the subreddit name in the fourth line of code and run the script
 
 It will download two files one for all the posts and one for all the comments 
+
+Please note pushshift has request limitations -
+
+repeated 429 error codes will result in blocklisting of IP
