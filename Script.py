@@ -1,7 +1,7 @@
 import requests
 import time
 
-subreddit = 'subnamegoeshere'   ### Please enter the name of the subreddit here  -> replace microdosing with subreddit name
+subreddit = 'subnamegoeshere'   ### Please enter the name of the subreddit here  -> replace subnamegoeshere with subreddit name
 maxThings = -1
 printWait = 2
 requestSize = 100
