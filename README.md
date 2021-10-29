@@ -1,4 +1,4 @@
-# subredditdownloader
+# subreddit downloader
 
 This subreddit downloader downloads all posts and comments in a subreddit
 
