@@ -72,7 +72,7 @@ for thing in things:
             doneHere = False
             for post in json['data']:
                 created_utc = post["created_utc"]
-                f.write(json.dumps(post) + '\n')
+                f.write(str(post) + '\n')
                 i += 1
                 if i >= totalResults:
                     doneHere = True
