@@ -18,7 +18,7 @@ repeated 429 error codes will result in blocklisting of IP
 
 
 
-***If your data format is in single quotes
+***If your data format is in single quotes***
 
 Please use this JSON fixer by @mbrzusto
 
