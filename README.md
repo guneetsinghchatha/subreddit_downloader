@@ -10,9 +10,16 @@ Simply replace the subreddit name in the fourth line of code and run the script
 
 It will download two files one for all the posts and one for all the comments 
 
+***Patched UTF-8 encoding****
 
 ***Please note pushshift has rate limitations -***
 
 repeated 429 error codes will result in blocklisting of IP
 
 
+
+***If your data format is in single quotes
+
+Please use this JSON fixer by @mbrzusto
+
+https://gist.github.com/mbrzusto/23fe728966247f25f3ec
