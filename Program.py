@@ -34,7 +34,7 @@ things = ('submission', 'comment')
 for thing in things:
     i = 0
 
-    with open(subreddit + '_' + thing + '_' + str(int(time.time())) + '.txt', 'w') as f:
+    with open(subreddit + '_' + thing + '_' + str(int(time.time())) + '.txt', 'w' , encoding="utf-8") as f:
         print('\n[starting', thing + 's]')
 
         if maxThings < 0:
