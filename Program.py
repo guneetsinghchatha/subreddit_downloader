@@ -1,6 +1,6 @@
 import requests
 import time
-import JSON
+import json
 
 subreddit = 'subnamegoeshere'   ### Please enter the name of the subreddit here  -> replace subnamegoeshere with subreddit name
 maxThings = -1
